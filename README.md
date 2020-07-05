@@ -7,4 +7,4 @@ By having automatic architecture tests, the
 - architects/developers can ensure that new components/features adhere to the software architecture, and
 - developers are encouraged to understand and contribute to architectural decisions.
 
-Read the full blog at theCodeReaper.com.
+Read the full blog at <a href="https://thecodereaper.com/2020/07/05/enforcing-software-architecture-governance-for-net-projects-using-unit-tests/">theCodeReaper.com</a>.
